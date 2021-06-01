@@ -2,5 +2,5 @@ module.exports = {
   siteMetadata: {
     title: "playground",
   },
-  plugins: [],
+  plugins: [`gatsby-plugin-material-ui`],
 };
